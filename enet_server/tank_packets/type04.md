@@ -36,7 +36,7 @@ Content of first item flags:
 - 0x0002 - ???
 - 0x0004 - ???
 - 0x0008 - ???
-- 0x0010 - Enable tree behaviour (otherwise, the tree doesn't grow)
+- 0x0010 - Enable growth behaviour (used by tree and provider)
 - 0x0020 - Rotation of item (when set, the tile faces right if it's a multifacing tile)
 - 0x0040 - Enabled/opened state of item
 - 0x0080 - Is item accesible by public (used by entrances)
